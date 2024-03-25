@@ -1,0 +1,60 @@
+
+	
+ nav{
+ 	z-index: 12;
+
+ 	transform: translateY(10px);
+	background-color: blueviolet;
+	
+}
+hr{
+	color: white;
+}
+.nav-link{
+	color: white;
+}
+.navbar-brand{
+	color: white;
+}
+.Jumbotron{
+	background-color: #bab39e;
+}
+h1 .title{
+	justify-content: center;
+}
+
+img .card-img-top{
+	width: 300px;
+	height: 200px;
+	margin-left: 20px;
+
+}
+#button{
+	margin: 10px;
+}
+#carouselExampleIndicators{
+	padding: 20px 0px 20px;
+
+}
+ #slider{
+	
+	width: 900px;
+	background-color: #786f66;
+}
+section{
+	width: 100%;
+	
+	
+}
+.text-light{
+	margin-top: 60px;
+}
+center h2 .wr{
+	margin-bottom: 60px;
+}
+footer{
+	background-color: #786f66;
+}
+footer a {
+	color: white;
+}
